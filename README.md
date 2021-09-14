@@ -5,8 +5,6 @@
 - 📫 How to reach me alafanori@gmail.com
 
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=NoriAlafa&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 
 <!---
 NoriAlafa/NoriAlafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
