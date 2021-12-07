@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NoriAlafa
 - 👀 I’m interested in Mobile App
-- 🌱 I’m currently learning Java Programming
+- 🌱 I’m currently learning CODEIGNITER
 - 💞️ I’m looking to collaborate on Web Programming
-- 📫 How to reach me alafanori@gmail.com
+- 📫 How to reach me erinrisnawati1922@gmail.com
 
 
 
