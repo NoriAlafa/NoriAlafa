@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @NoriAlafa
 - 👀 I’m interested in Mobile App
 - 🌱 I’m currently learning CODEIGNITER
-- 💞️ I’m looking to collaborate on Web Programming
+- 💞️ I’m looking to collaborate on Web
 - 📫 How to reach me erinrisnawati1922@gmail.com
 
 
