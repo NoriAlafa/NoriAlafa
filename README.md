@@ -1,3 +1,4 @@
+(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSegNTq1FgIoa4xWEXdLoFbrBvQaZm59Z4VuQ&usqp=CAU)
 - 👋 Hi, I’m @NoriAlafa
 - 👀 I’m interested in Mobile App
 - 🌱 I’m currently learning CODEIGNITER
