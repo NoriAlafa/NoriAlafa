@@ -1,4 +1,4 @@
-![Hello Everybody](https://media.discordapp.net/attachments/833172097777795124/937179723879034951/welcome.png?width=874&height=427)
+![Hello Everybody](https://i.pximg.net/img-master/img/2022/03/07/19/46/16/96748647_p0_master1200.jpg)
 - 👋 Hi, I’m @NoriAlafa
 - 👀 I’m interested in Mobile App
 - 🌱 I’m currently learning CODEIGNITER
