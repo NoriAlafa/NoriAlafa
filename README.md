@@ -1,4 +1,4 @@
-![Hello Everybody](https://www.mediafire.com/view/7kyxwmam601kqjs/92199789_p0_master1200.jpg/file)
+![Hello Everybody](https://discord.com/2b664fa3-7334-49d9-9cfe-8b2c9bfdee56)
 - 👋 Hi, I’m @NoriAlafa
 - 👀 I’m interested in Mobile App
 - 🌱 I’m currently learning CODEIGNITER
