@@ -1,4 +1,4 @@
-![Hello Everybody](https://drive.google.com/file/d/1pttBCA28BAiRSuWROnoZCFadGaUga_3-/view?usp=sharing)
+![Hello Everybody](https://www.mediafire.com/view/7kyxwmam601kqjs/92199789_p0_master1200.jpg/file)
 - 👋 Hi, I’m @NoriAlafa
 - 👀 I’m interested in Mobile App
 - 🌱 I’m currently learning CODEIGNITER
