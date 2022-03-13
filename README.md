@@ -1,4 +1,4 @@
-![Hello Everybody](https://i.pximg.net/img-master/img/2021/08/23/10/50/04/92199789_p0_master1200.jpg)
+![Hello Everybody](https://drive.google.com/file/d/1pttBCA28BAiRSuWROnoZCFadGaUga_3-/view?usp=sharing)
 - 👋 Hi, I’m @NoriAlafa
 - 👀 I’m interested in Mobile App
 - 🌱 I’m currently learning CODEIGNITER
