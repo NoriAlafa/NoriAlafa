@@ -1,4 +1,4 @@
-![Hello Everybody]([https://w0.peakpx.com/wallpaper/979/144/HD-wallpaper-anime-tokyo-revengers-senju-kawaragi-minimalist.jpg])
+![Hello Everybody]
 - 👋 Hi, I’m @NoriAlafa
 - 👀 I’m interested in Mobile App
 - 🌱 I’m currently learning CODEIGNITER
