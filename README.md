@@ -1,4 +1,4 @@
-![Hello Everybody](https://media.discordapp.net/attachments/939493718048796692/952528402097778688/96748647_p0_master1200.jpg?width=874&height=300)
+![Hello Everybody]([https://media.discordapp.net/attachments/939493718048796692/952528402097778688/96748647_p0_master1200.jpg?width=874&height=300](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEFPrAjPN9dSob8lskJCZFKVVu-kQktSHPZA&s])
 - 👋 Hi, I’m @NoriAlafa
 - 👀 I’m interested in Mobile App
 - 🌱 I’m currently learning CODEIGNITER
@@ -12,7 +12,7 @@ NoriAlafa/NoriAlafa is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
 
 
 
